@@ -18,7 +18,9 @@ I used a grid system with 12 sections from left to right. With that the elements
 The colours are contrasting - with the green that highlights important information. In addition to that, having the color of it fill gives it even more contrast. In the menu I made the headings black but the paragraphs dark grey to give the headings even more contrast and lighten up the page.
 
 <h2>The 60-30-10 rule in use of color palettes</h2>
-On the menu page I use #E5DDD5 mostly (60) - #0000 or #666666 is the second mostly used (30) - and lastly #55BC44 is the least used but gives it some colour.
+On the menu page I use
+- ![#E5DDD5](https://via.placeholder.com/15/f03c15/000000?text=+) `#E5DDD5`
+mostly (60) - #0000 or #666666 is the second mostly used (30) - and lastly #55BC44 is the least used but gives it some colour.
 
 <h2>Use of scale in design elements and visual hierarchy</h2>
 The headings 
